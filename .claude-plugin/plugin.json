@@ -1,0 +1,22 @@
+{
+  "name": "living-projects",
+  "displayName": "Living Projects",
+  "version": "1.0.0",
+  "description": "Carries your thinking from one session to the next. Keeps a plain-text record of a project — decisions, rejected paths, pinned words, corrections — in storage you own, so a new conversation starts where the last one left off.",
+  "author": {
+    "name": "Living Projects",
+    "email": "hellolivingprojects@gmail.com",
+    "url": "https://livingprojects.net"
+  },
+  "homepage": "https://livingprojects.net",
+  "repository": "https://github.com/livingprojects/living-projects",
+  "keywords": [
+    "memory",
+    "project-record",
+    "dropbox",
+    "google-drive",
+    "onedrive",
+    "continuity"
+  ],
+  "mcpServers": "./.mcp.json"
+}
