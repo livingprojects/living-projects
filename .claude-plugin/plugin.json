@@ -10,6 +10,11 @@
   },
   "homepage": "https://livingprojects.net",
   "repository": "https://github.com/livingprojects/living-projects",
+  "license": "MIT",
+  "documentationUrl": "https://livingprojects.net/connect-claude",
+  "supportUrl": "https://livingprojects.net/support",
+  "privacyPolicyUrl": "https://livingprojects.net/privacy",
+  "termsOfServiceUrl": "https://livingprojects.net/terms",
   "keywords": [
     "memory",
     "project-record",
