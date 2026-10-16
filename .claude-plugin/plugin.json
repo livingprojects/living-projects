@@ -2,7 +2,7 @@
   "name": "living-projects",
   "displayName": "Living Projects",
   "version": "1.0.0",
-  "description": "Carries your thinking from one session to the next. Keeps a plain-text record of a project — decisions, rejected paths, pinned words, corrections — in storage you own, so a new conversation starts where the last one left off.",
+  "description": "A free plugin for anyone tired of AI amnesia. Pick up where you left off: Living Projects keeps your progress, decisions, and notes in your own storage.",
   "author": {
     "name": "Living Projects",
     "email": "hellolivingprojects@gmail.com",
